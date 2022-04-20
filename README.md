@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ramsford Addai 
+- 👋 Hi, I’m Ransford Addai 
 - 🌱 I’m currently an Applied Computer Science Student of Karel De Grote University 
 - 💞️ Everything i will be doing here is mainly for educational purposes
 - 📫 You can reach me on iciransddai@gmail.com 
